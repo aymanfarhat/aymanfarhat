@@ -1,2 +1,1 @@
-[![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanfarhat)](https://github.com/aymanfarhat/github-readme-stats)
-
+[![Ayman Farhat Medium](https://github-readme-medium.vercel.app/?username=aymanfarhat)](https://medium.com/@aymanfarhat)
