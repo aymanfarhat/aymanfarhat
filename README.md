@@ -1,6 +1,7 @@
 ### Hello, my name is Ayman
 
-I am a Senior Data & AI Engineer at Google Cloud, where I serve as a hands-on technical lead for critical data infrastructure and AI solutions, driving enterprise-scale transformations for Google Cloud's largest customers globally.
+
+I'm an applied AI Engineer at OpenAI. Previously, Senior Data & Analytics Engineer at Google Cloud. I serve as a hands-on technical lead for critical data infrastructure and AI solutions, driving enterprise-scale transformations.
 
 My passion for cloud computing and AI spans over 15 years. I've designed and implemented multiple cloud-native AI architectures across various industries and hold multiple Google Cloud certifications including Professional Data Engineer, Professional Cloud Architect, and Professional Cloud Developer.
 
@@ -22,8 +23,8 @@ BigQuery, Spanner, Postgres, MySQL, Neo4J, Spanner Graph, PubSub, Kafka, Real-ti
 Python, Java, JavaScript, Golang, SQL, NodeJS, VueJS, Django, FastAPI, SpringBoot.
 
 **🤖 Machine Learning & AI**  
-PyTorch, Scikit-Learn, Kubeflow, Graph RAG, MLOps
+PyTorch, Scikit-Learn, Kubeflow, Graph RAG, MLOps, Evals
 
 **☁️ Cloud & Infrastructure**  
-Google Cloud Platform (Deep expertise), AWS, Kubernetes, Docker, Terraform, CI/CD, Apache Beam, Apache Spark, Apache Airflow.
+Google Cloud Platform (Deep expertise), AWS, Docker, Terraform, CI/CD, Apache Beam, Apache Spark, Apache Airflow.
 
