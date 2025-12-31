@@ -1,9 +1,9 @@
 ### Hello, my name is Ayman
 
 
-I'm an AI Engineer at OpenAI (FDE org). Previously, Senior Data & Analytics Engineer at Google Cloud. I serve as a hands-on technical lead for building  deeptech industry AI solutions, driving enterprise-scale transformations.
+I'm an AI Engineer at OpenAI (FDE org). Previously, Senior Data & Analytics Engineer at Google Cloud. I serve as a hands-on technical lead, building   industry focused AI solutions, working closely with research teams.
 
-My passion for cloud computing and AI spans over 15 years. I've designed and implemented multiple cloud-native AI architectures across various industries and hold multiple Google Cloud certifications including Professional Data Engineer, Professional Cloud Architect, and Professional Cloud Developer.
+My passion for cloud computing and AI spans over 15 years. I've designed and implemented multiple cloud-native AI architectures across various industries and hold multiple Cloud certifications including Professional Data Engineer, Professional Cloud Architect, and Professional Cloud Developer.
 
 I actively share my knowledge through technical writing on [Medium](https://medium.com/@aymanf) and [The Code Ship](https://thecodeship.com), and speak at industry conferences and developer ecosystem events.
 
